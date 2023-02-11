@@ -63,13 +63,13 @@ global.location = "Egypt, Cairo, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['9660540637980']
 global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
+global.botname = 'TG7IF BOT🐼🍷 ٫' //ur bot name
+global.linkz = "https://chat.whatsapp.com/I4yv3FX2rA17r5wkXxQW5h" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/I4yv3FX2rA17r5wkXxQW5h" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/I4yv3FX2rA17r5wkXxQW5h' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
+global.packname = "⍣TG7IF⍣" //ur sticker watermark packname
 global.author = "⍣9660540637980⍣" //ur sticker watermark author
 
 //Bot theme media
@@ -105,9 +105,9 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
-    admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
-    botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
+    success: 'تم  ✓',
+    admin: 'انت ما ادمن يا شاب امش ابقا ادمن و تعال!! ',
+    botAdmin: 'جيب ادمن عشان انجز ليك!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
     private: 'الميزه المستخدمة فقط للدردشة الخاصة!',
@@ -116,7 +116,7 @@ global.mess = {
     linkm: 'أين الرابط?',
     error: 'ايرور!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، مالك الدردشة.',
+    ban: 'وزع يا عب توبي تاج راصك.',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
     banChat: 'تم حظر الروبوت في هذه المجموعة ، يرجى الاتصال بالمالك لإلغاء الحظر'
 }
